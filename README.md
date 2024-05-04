@@ -1,4 +1,5 @@
 Code in Sticher.py and runner in sticher.py 
+
 To run the program:
 
 Write names of images from left to right
